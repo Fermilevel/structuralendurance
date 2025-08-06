@@ -1,6 +1,6 @@
 
 # 👋 Hi, I’m Fermilevel!
-# structuralendurance
+# Structural Endurance
 This repository contains my personal experiments and notes related to fatigue analysis, including stress-life (S-N) data, plots, and code for calculations.
 
 **Exploring the science of structural longevity and predictive intelligence.**
