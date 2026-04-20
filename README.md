@@ -3,7 +3,7 @@
 # Structural Endurance
 This repository contains my personal experiments and notes related to fatigue analysis, including stress-life (S-N) data, plots, and code for calculations.
 
-**Exploring the science of structural longevity and predictive intelligence.**
+**Exploring the science of structural longevity .**
 
 ---
 
@@ -11,7 +11,7 @@ This repository contains my personal experiments and notes related to fatigue an
 
 - **Aircraft Structures Maintenance Engineer**
 - Passionate about simulations, fatigue & corrosion modelling of materials
-- Enthusiast of differential equations and ODEs
+- Enthusiast of differential equations , ODEs
 - Interested in the future of intelligent structural systems that can predict their own failures
 - Skilled with **Ansys** for engineering analysis and modeling
 
